@@ -1,0 +1,1 @@
+{"description":"Daily wallpaper share version - single static HTML served by Node","main":"server.js","name":"daily-wallpaper","scripts":{"start":"node server.js"},"version":"1.0.0"}
